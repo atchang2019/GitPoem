@@ -1,9 +1,5 @@
 Yeah, uh huh, you know what it is
 Everything I do, I do it big
-<<<<<<< HEAD
 what I pulled off the lot, thats stunting
->> poem.txt
 echo what I pulled off the lot, thats stunting
-=======
 Yeah, uh huh, screaming that's nothing
->>>>>>> a4a9e6a486dd888f19c8d46192c5ad66dd44236e
