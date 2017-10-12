@@ -1,2 +1,5 @@
 Yeah, uh huh, you know what it is
 Everything I do, I do it big
+what I pulled off the lot, thats stunting
+>> poem.txt
+echo what I pulled off the lot, thats stunting
